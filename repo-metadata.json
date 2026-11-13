@@ -1,0 +1,16 @@
+{
+  "name": "hie-adt-feed-sample",
+  "description": "Generate and check synthetic HL7 v2 ADT registration/admission messages.",
+  "topics": [
+    "healthcare",
+    "hl7",
+    "interoperability",
+    "hie",
+    "python"
+  ],
+  "priority": "P0",
+  "market": "GCC",
+  "sampleStatus": "ready-for-documented-offline-demo",
+  "productionReady": false,
+  "validationScope": "Local synthetic fixtures, documented sample rules, automated tests and type checks where applicable"
+}

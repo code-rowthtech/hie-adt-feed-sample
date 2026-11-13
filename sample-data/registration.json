@@ -1,0 +1,11 @@
+{
+  "facility_id": "SYNTHETIC-FACILITY",
+  "mrn": "SYNTHETIC-MRN-001",
+  "national_id": "SYNTHETIC-NATIONAL-001",
+  "visit_id": "SYNTHETIC-VISIT-001",
+  "family": "Synthetic",
+  "given": "Patient001",
+  "dob": "20000101",
+  "sex": "U",
+  "timestamp": "20260101120000"
+}
